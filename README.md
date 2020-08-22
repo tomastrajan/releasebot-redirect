@@ -1,1 +1,1 @@
-"# releasebot-redirect" 
+# Releasebot redirect
